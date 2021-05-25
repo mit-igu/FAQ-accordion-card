@@ -129,8 +129,8 @@ h1{
         min-height: 70vh;
         padding: 50px;
         background-image: url(./images/illustration-woman-online-desktop.svg), url(./images/bg-pattern-desktop.svg);
-        background-position: -20% center, -20% center;
-        background-size: 50%, 50%;
+        background-position: -20% center, -40% center;
+        background-size: 50%, 60%;
         background-attachment:scroll;
     }
 
